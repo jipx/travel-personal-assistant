@@ -9,7 +9,7 @@ This is an example shows how to build a travel assistant app. The app will provi
 
 ```
 
-git clone https://github.com/aws-samples/travel-personal-assistant.git
+git clone https://github.com/jipx/travel-personal-assistant.git
 cd travel-personal-assistant
 
 ```
